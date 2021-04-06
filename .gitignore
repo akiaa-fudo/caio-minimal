@@ -1,0 +1,4 @@
+/.config/
+/dist/
+out/
+/node_modules/
